@@ -4,31 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ifElseladder
+namespace Nestedif
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int marks = 40;
-
-            if (80 <= marks)
+            int a = 10;
+            int b = 20;
+            if(a==10)
             {
-                Console.WriteLine("Distinction");
+                if(b==20)
+                {
+                    Console.WriteLine("value of a is 10 and b is 20");
+                }
             }
-            else if (70 <= marks)
-            {
-                Console.WriteLine("First Class");
-            }
-            else if (50 <= marks)
-            {
-                Console.WriteLine("Second Class");
-            }
-            else
-            {
-                Console.WriteLine("Fail");
-            }
-
             Console.ReadLine();
         }
     }
