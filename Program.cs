@@ -4,22 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace whileloop
+namespace doWhile
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int i = 0;
-            while( i <=10)
+            int a = 0;
+            do
             {
-                Console.WriteLine(i);
-                i++;
-
+                Console.WriteLine(a);
+                a++;
             }
+            while (a < 10);
             Console.ReadLine();
-
-            }
+            
         }
     }
-
+}
