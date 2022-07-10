@@ -4,22 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Nestedif
+namespace whileloop
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int a = 10;
-            int b = 20;
-            if(a==10)
+            int i = 0;
+            while( i <=10)
             {
-                if(b==20)
-                {
-                    Console.WriteLine("value of a is 10 and b is 20");
-                }
+                Console.WriteLine(i);
+                i++;
+
             }
             Console.ReadLine();
+
+            }
         }
     }
-}
+
