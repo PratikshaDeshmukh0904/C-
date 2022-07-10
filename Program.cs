@@ -4,23 +4,31 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ifelse
+namespace ifElseladder
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int a = 10;
-            int b = 20;
+            int marks = 40;
 
-            if(a<b)
+            if (80 <= marks)
             {
-                Console.WriteLine("b", b);
+                Console.WriteLine("Distinction");
+            }
+            else if (70 <= marks)
+            {
+                Console.WriteLine("First Class");
+            }
+            else if (50 <= marks)
+            {
+                Console.WriteLine("Second Class");
             }
             else
             {
-                Console.WriteLine("a", a);
+                Console.WriteLine("Fail");
             }
+
             Console.ReadLine();
         }
     }
