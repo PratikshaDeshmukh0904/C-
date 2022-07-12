@@ -4,34 +4,31 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AccessModifier
+namespace Add
 {
     class Program
     {
-        
-    }
-    class car
-    {
-        private string model;
-        private string color;
-        private int price;
+        int num1;
+        int num2;
+        int result;
 
-        private void printinfo()
+        public void addition()
         {
-            Console.WriteLine("Model:" + model);
-            model = Console.ReadLine();
-            Console.WriteLine("Color:" + color);
-            color = Console.ReadLine();
-            Console.WriteLine("Price:" + price);
-            price = Convert.ToInt32(Console.ReadLine());
-
+            result = num1 + num2;
+            Console.WriteLine(result);
             Console.ReadLine();
-
         }
+           
         static void Main(string[] args)
         {
-            car obj = new car();
-            obj.printinfo();            //To run program add main method in same class 
+            Program obj = new Program();
+
+            obj.num1 = 10;
+            obj.num2 = 20;
+        
+        
+            obj.addition();
+
         }
     }
 }
