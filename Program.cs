@@ -4,29 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NoArgumentButReturnValue
+namespace NoArgumentNoReturnValue
 {
     class Program
     {
-        static void Main(string[] args)
-        {
 
-            Program sum = new Program();
-            sum.Sum();
-            Console.WriteLine(sum.Sum());
+        void argument()
+        {
+            Console.WriteLine("Hello World");
             Console.ReadLine();
         }
-
-        int Sum()
+        static void Main(string[] args)
         {
-            int Add;
-            int a = 10;
-            int b = 20;
-            Add = a + b;
-            return Add;
+            Program a = new Program();
+            a.argument();
         }
-        
-       
-
     }
 }
