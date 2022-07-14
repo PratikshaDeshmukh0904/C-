@@ -4,21 +4,29 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ArgymentAndReturnValue
+namespace NoArgumentButReturnValue
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Program Obj = new Program();
-            Obj.sum(10,20);
+
+            Program sum = new Program();
+            sum.Sum();
+            Console.WriteLine(sum.Sum());
+            Console.ReadLine();
         }
-        int sum(int num1 , int num2)
+
+        int Sum()
         {
-            int result;
-           
-            result = num1 + num2;
-            return result;
+            int Add;
+            int a = 10;
+            int b = 20;
+            Add = a + b;
+            return Add;
         }
+        
+       
+
     }
 }
