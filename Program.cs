@@ -4,20 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NoArgumentNoReturnValue
+namespace doWhile
 {
     class Program
     {
-
-        void argument()
-        {
-            Console.WriteLine("Hello World");
-            Console.ReadLine();
-        }
         static void Main(string[] args)
         {
-            Program a = new Program();
-            a.argument();
+            int a = 0;
+            do
+            {
+                Console.WriteLine(a);
+                a++;
+            }
+            while (a < 10);
+            Console.ReadLine();
+            
         }
     }
 }
