@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\C#\whileloop\whileloop\bin\Debug\whileloop.exe.config
+C:\Users\DELL\Desktop\C#\whileloop\whileloop\bin\Debug\whileloop.exe
+C:\Users\DELL\Desktop\C#\whileloop\whileloop\bin\Debug\whileloop.pdb
+C:\Users\DELL\Desktop\C#\whileloop\whileloop\obj\Debug\whileloop.exe
+C:\Users\DELL\Desktop\C#\whileloop\whileloop\obj\Debug\whileloop.pdb
