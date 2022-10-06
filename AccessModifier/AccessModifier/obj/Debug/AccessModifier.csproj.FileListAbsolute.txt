@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\C#\AccessModifier\AccessModifier\bin\Debug\AccessModifier.exe.config
+C:\Users\DELL\Desktop\C#\AccessModifier\AccessModifier\bin\Debug\AccessModifier.exe
+C:\Users\DELL\Desktop\C#\AccessModifier\AccessModifier\bin\Debug\AccessModifier.pdb
+C:\Users\DELL\Desktop\C#\AccessModifier\AccessModifier\obj\Debug\AccessModifier.exe
+C:\Users\DELL\Desktop\C#\AccessModifier\AccessModifier\obj\Debug\AccessModifier.pdb
