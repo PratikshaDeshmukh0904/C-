@@ -1,0 +1,8 @@
+E:\C#-Define Labs\IF\bin\Debug\IF.exe.config
+E:\C#-Define Labs\IF\bin\Debug\IF.exe
+E:\C#-Define Labs\IF\bin\Debug\IF.pdb
+E:\C#-Define Labs\IF\obj\Debug\IF.csproj.AssemblyReference.cache
+E:\C#-Define Labs\IF\obj\Debug\IF.csproj.SuggestedBindingRedirects.cache
+E:\C#-Define Labs\IF\obj\Debug\IF.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\IF\obj\Debug\IF.exe
+E:\C#-Define Labs\IF\obj\Debug\IF.pdb
