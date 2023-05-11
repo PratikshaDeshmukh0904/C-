@@ -1,0 +1,8 @@
+E:\C#-Define Labs\Calculator\bin\Debug\Calculator.exe.config
+E:\C#-Define Labs\Calculator\bin\Debug\Calculator.exe
+E:\C#-Define Labs\Calculator\bin\Debug\Calculator.pdb
+E:\C#-Define Labs\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\C#-Define Labs\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+E:\C#-Define Labs\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\Calculator\obj\Debug\Calculator.exe
+E:\C#-Define Labs\Calculator\obj\Debug\Calculator.pdb
