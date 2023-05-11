@@ -1,0 +1,8 @@
+E:\C#-Define Labs\MoreIf\bin\Debug\MoreIf.exe.config
+E:\C#-Define Labs\MoreIf\bin\Debug\MoreIf.exe
+E:\C#-Define Labs\MoreIf\bin\Debug\MoreIf.pdb
+E:\C#-Define Labs\MoreIf\obj\Debug\MoreIf.csproj.AssemblyReference.cache
+E:\C#-Define Labs\MoreIf\obj\Debug\MoreIf.csproj.SuggestedBindingRedirects.cache
+E:\C#-Define Labs\MoreIf\obj\Debug\MoreIf.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\MoreIf\obj\Debug\MoreIf.exe
+E:\C#-Define Labs\MoreIf\obj\Debug\MoreIf.pdb
