@@ -1,0 +1,8 @@
+E:\C#-Define Labs\Method\bin\Debug\Method.exe.config
+E:\C#-Define Labs\Method\bin\Debug\Method.exe
+E:\C#-Define Labs\Method\bin\Debug\Method.pdb
+E:\C#-Define Labs\Method\obj\Debug\Method.csproj.AssemblyReference.cache
+E:\C#-Define Labs\Method\obj\Debug\Method.csproj.SuggestedBindingRedirects.cache
+E:\C#-Define Labs\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\Method\obj\Debug\Method.exe
+E:\C#-Define Labs\Method\obj\Debug\Method.pdb
