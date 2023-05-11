@@ -1,0 +1,8 @@
+E:\C#-Define Labs\Datatypes\bin\Debug\Datatypes.exe.config
+E:\C#-Define Labs\Datatypes\bin\Debug\Datatypes.exe
+E:\C#-Define Labs\Datatypes\bin\Debug\Datatypes.pdb
+E:\C#-Define Labs\Datatypes\obj\Debug\Datatypes.csproj.AssemblyReference.cache
+E:\C#-Define Labs\Datatypes\obj\Debug\Datatypes.csproj.SuggestedBindingRedirects.cache
+E:\C#-Define Labs\Datatypes\obj\Debug\Datatypes.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\Datatypes\obj\Debug\Datatypes.exe
+E:\C#-Define Labs\Datatypes\obj\Debug\Datatypes.pdb
