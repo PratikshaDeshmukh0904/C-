@@ -1,0 +1,8 @@
+E:\C#-Define Labs\Giraffe1\bin\Debug\Giraffe1.exe.config
+E:\C#-Define Labs\Giraffe1\bin\Debug\Giraffe1.exe
+E:\C#-Define Labs\Giraffe1\bin\Debug\Giraffe1.pdb
+E:\C#-Define Labs\Giraffe1\obj\Debug\Giraffe1.csproj.AssemblyReference.cache
+E:\C#-Define Labs\Giraffe1\obj\Debug\Giraffe1.csproj.SuggestedBindingRedirects.cache
+E:\C#-Define Labs\Giraffe1\obj\Debug\Giraffe1.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\Giraffe1\obj\Debug\Giraffe1.exe
+E:\C#-Define Labs\Giraffe1\obj\Debug\Giraffe1.pdb
