@@ -1,0 +1,8 @@
+E:\C#-Define Labs\MadLibs\bin\Debug\MadLibs.exe.config
+E:\C#-Define Labs\MadLibs\bin\Debug\MadLibs.exe
+E:\C#-Define Labs\MadLibs\bin\Debug\MadLibs.pdb
+E:\C#-Define Labs\MadLibs\obj\Debug\MadLibs.csproj.AssemblyReference.cache
+E:\C#-Define Labs\MadLibs\obj\Debug\MadLibs.csproj.SuggestedBindingRedirects.cache
+E:\C#-Define Labs\MadLibs\obj\Debug\MadLibs.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\MadLibs\obj\Debug\MadLibs.exe
+E:\C#-Define Labs\MadLibs\obj\Debug\MadLibs.pdb
