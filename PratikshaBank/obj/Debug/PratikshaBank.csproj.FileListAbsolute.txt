@@ -1,0 +1,8 @@
+E:\C#-Define Labs\PratikshaBank\bin\Debug\PratikshaBank.exe.config
+E:\C#-Define Labs\PratikshaBank\bin\Debug\PratikshaBank.exe
+E:\C#-Define Labs\PratikshaBank\bin\Debug\PratikshaBank.pdb
+E:\C#-Define Labs\PratikshaBank\obj\Debug\PratikshaBank.csproj.AssemblyReference.cache
+E:\C#-Define Labs\PratikshaBank\obj\Debug\PratikshaBank.csproj.SuggestedBindingRedirects.cache
+E:\C#-Define Labs\PratikshaBank\obj\Debug\PratikshaBank.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\PratikshaBank\obj\Debug\PratikshaBank.exe
+E:\C#-Define Labs\PratikshaBank\obj\Debug\PratikshaBank.pdb
