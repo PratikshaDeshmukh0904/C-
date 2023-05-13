@@ -1,0 +1,8 @@
+E:\C#-Define Labs\BuildGuess\bin\Debug\BuildGuess.exe.config
+E:\C#-Define Labs\BuildGuess\bin\Debug\BuildGuess.exe
+E:\C#-Define Labs\BuildGuess\bin\Debug\BuildGuess.pdb
+E:\C#-Define Labs\BuildGuess\obj\Debug\BuildGuess.csproj.AssemblyReference.cache
+E:\C#-Define Labs\BuildGuess\obj\Debug\BuildGuess.csproj.SuggestedBindingRedirects.cache
+E:\C#-Define Labs\BuildGuess\obj\Debug\BuildGuess.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\BuildGuess\obj\Debug\BuildGuess.exe
+E:\C#-Define Labs\BuildGuess\obj\Debug\BuildGuess.pdb
