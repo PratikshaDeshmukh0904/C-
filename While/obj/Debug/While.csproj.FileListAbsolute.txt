@@ -1,0 +1,8 @@
+E:\C#-Define Labs\While\bin\Debug\While.exe.config
+E:\C#-Define Labs\While\bin\Debug\While.exe
+E:\C#-Define Labs\While\bin\Debug\While.pdb
+E:\C#-Define Labs\While\obj\Debug\While.csproj.AssemblyReference.cache
+E:\C#-Define Labs\While\obj\Debug\While.csproj.SuggestedBindingRedirects.cache
+E:\C#-Define Labs\While\obj\Debug\While.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\While\obj\Debug\While.exe
+E:\C#-Define Labs\While\obj\Debug\While.pdb
