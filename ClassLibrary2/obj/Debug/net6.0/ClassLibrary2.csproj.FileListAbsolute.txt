@@ -1,0 +1,12 @@
+E:\C#-Define Labs\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.deps.json
+E:\C#-Define Labs\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.dll
+E:\C#-Define Labs\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.pdb
+E:\C#-Define Labs\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.csproj.AssemblyReference.cache
+E:\C#-Define Labs\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-Define Labs\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.AssemblyInfoInputs.cache
+E:\C#-Define Labs\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.AssemblyInfo.cs
+E:\C#-Define Labs\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.dll
+E:\C#-Define Labs\ClassLibrary2\obj\Debug\net6.0\refint\ClassLibrary2.dll
+E:\C#-Define Labs\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.pdb
+E:\C#-Define Labs\ClassLibrary2\obj\Debug\net6.0\ref\ClassLibrary2.dll
