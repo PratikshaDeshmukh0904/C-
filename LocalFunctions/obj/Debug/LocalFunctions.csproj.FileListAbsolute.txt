@@ -1,0 +1,8 @@
+E:\C#-Define Labs\LocalFunctions\bin\Debug\LocalFunctions.exe.config
+E:\C#-Define Labs\LocalFunctions\bin\Debug\LocalFunctions.exe
+E:\C#-Define Labs\LocalFunctions\bin\Debug\LocalFunctions.pdb
+E:\C#-Define Labs\LocalFunctions\obj\Debug\LocalFunctions.csproj.AssemblyReference.cache
+E:\C#-Define Labs\LocalFunctions\obj\Debug\LocalFunctions.csproj.SuggestedBindingRedirects.cache
+E:\C#-Define Labs\LocalFunctions\obj\Debug\LocalFunctions.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\LocalFunctions\obj\Debug\LocalFunctions.exe
+E:\C#-Define Labs\LocalFunctions\obj\Debug\LocalFunctions.pdb
