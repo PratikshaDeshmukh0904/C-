@@ -1,0 +1,8 @@
+E:\C#-Define Labs\Params\bin\Debug\Params.exe.config
+E:\C#-Define Labs\Params\bin\Debug\Params.exe
+E:\C#-Define Labs\Params\bin\Debug\Params.pdb
+E:\C#-Define Labs\Params\obj\Debug\Params.csproj.AssemblyReference.cache
+E:\C#-Define Labs\Params\obj\Debug\Params.csproj.SuggestedBindingRedirects.cache
+E:\C#-Define Labs\Params\obj\Debug\Params.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\Params\obj\Debug\Params.exe
+E:\C#-Define Labs\Params\obj\Debug\Params.pdb
