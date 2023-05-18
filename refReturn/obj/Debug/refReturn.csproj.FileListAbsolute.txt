@@ -1,0 +1,8 @@
+E:\C#-Define Labs\refReturn\bin\Debug\refReturn.exe.config
+E:\C#-Define Labs\refReturn\bin\Debug\refReturn.exe
+E:\C#-Define Labs\refReturn\bin\Debug\refReturn.pdb
+E:\C#-Define Labs\refReturn\obj\Debug\refReturn.csproj.AssemblyReference.cache
+E:\C#-Define Labs\refReturn\obj\Debug\refReturn.csproj.SuggestedBindingRedirects.cache
+E:\C#-Define Labs\refReturn\obj\Debug\refReturn.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\refReturn\obj\Debug\refReturn.exe
+E:\C#-Define Labs\refReturn\obj\Debug\refReturn.pdb
