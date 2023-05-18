@@ -1,0 +1,8 @@
+E:\C#-Define Labs\StaticLocalFunction\bin\Debug\StaticLocalFunction.exe.config
+E:\C#-Define Labs\StaticLocalFunction\bin\Debug\StaticLocalFunction.exe
+E:\C#-Define Labs\StaticLocalFunction\bin\Debug\StaticLocalFunction.pdb
+E:\C#-Define Labs\StaticLocalFunction\obj\Debug\StaticLocalFunction.csproj.AssemblyReference.cache
+E:\C#-Define Labs\StaticLocalFunction\obj\Debug\StaticLocalFunction.csproj.SuggestedBindingRedirects.cache
+E:\C#-Define Labs\StaticLocalFunction\obj\Debug\StaticLocalFunction.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\StaticLocalFunction\obj\Debug\StaticLocalFunction.exe
+E:\C#-Define Labs\StaticLocalFunction\obj\Debug\StaticLocalFunction.pdb
