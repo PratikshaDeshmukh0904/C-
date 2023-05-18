@@ -1,0 +1,8 @@
+E:\C#-Define Labs\TypeConversion\bin\Debug\TypeConversion.exe.config
+E:\C#-Define Labs\TypeConversion\bin\Debug\TypeConversion.exe
+E:\C#-Define Labs\TypeConversion\bin\Debug\TypeConversion.pdb
+E:\C#-Define Labs\TypeConversion\obj\Debug\TypeConversion.csproj.AssemblyReference.cache
+E:\C#-Define Labs\TypeConversion\obj\Debug\TypeConversion.csproj.SuggestedBindingRedirects.cache
+E:\C#-Define Labs\TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\TypeConversion\obj\Debug\TypeConversion.exe
+E:\C#-Define Labs\TypeConversion\obj\Debug\TypeConversion.pdb
