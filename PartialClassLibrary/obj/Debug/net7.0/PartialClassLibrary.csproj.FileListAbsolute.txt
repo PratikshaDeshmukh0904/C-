@@ -1,0 +1,12 @@
+E:\C#-Define Labs\PartialClassLibrary\bin\Debug\net7.0\PartialClassLibrary.deps.json
+E:\C#-Define Labs\PartialClassLibrary\bin\Debug\net7.0\PartialClassLibrary.dll
+E:\C#-Define Labs\PartialClassLibrary\bin\Debug\net7.0\PartialClassLibrary.pdb
+E:\C#-Define Labs\PartialClassLibrary\obj\Debug\net7.0\PartialClassLibrary.csproj.AssemblyReference.cache
+E:\C#-Define Labs\PartialClassLibrary\obj\Debug\net7.0\PartialClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-Define Labs\PartialClassLibrary\obj\Debug\net7.0\PartialClassLibrary.AssemblyInfoInputs.cache
+E:\C#-Define Labs\PartialClassLibrary\obj\Debug\net7.0\PartialClassLibrary.AssemblyInfo.cs
+E:\C#-Define Labs\PartialClassLibrary\obj\Debug\net7.0\PartialClassLibrary.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\PartialClassLibrary\obj\Debug\net7.0\PartialClassLibrary.dll
+E:\C#-Define Labs\PartialClassLibrary\obj\Debug\net7.0\refint\PartialClassLibrary.dll
+E:\C#-Define Labs\PartialClassLibrary\obj\Debug\net7.0\PartialClassLibrary.pdb
+E:\C#-Define Labs\PartialClassLibrary\obj\Debug\net7.0\ref\PartialClassLibrary.dll
