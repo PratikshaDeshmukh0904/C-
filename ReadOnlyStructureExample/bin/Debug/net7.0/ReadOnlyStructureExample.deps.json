@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ReadOnlyStructureExample/1.0.0": {
+        "dependencies": {
+          "ReadOnlyLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ReadOnlyStructureExample.dll": {}
+        }
+      },
+      "ReadOnlyLibrary/1.0.0": {
+        "runtime": {
+          "ReadOnlyLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReadOnlyStructureExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReadOnlyLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadOnlyStructureExample", "ReadOnlyStructureExample.csproj", "{BAEA2759-CD11-40DB-A78B-B85B4AF3E5DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadOnlyLibrary", "..\ReadOnlyLibrary\ReadOnlyLibrary.csproj", "{A22815ED-4B39-4450-A708-863674B8F12D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAEA2759-CD11-40DB-A78B-B85B4AF3E5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAEA2759-CD11-40DB-A78B-B85B4AF3E5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAEA2759-CD11-40DB-A78B-B85B4AF3E5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAEA2759-CD11-40DB-A78B-B85B4AF3E5DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A22815ED-4B39-4450-A708-863674B8F12D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22815ED-4B39-4450-A708-863674B8F12D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22815ED-4B39-4450-A708-863674B8F12D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22815ED-4B39-4450-A708-863674B8F12D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C63F7CDC-5379-4972-A043-622FC0FE9342}
+	EndGlobalSection
+EndGlobal

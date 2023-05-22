@@ -1,0 +1,12 @@
+E:\C#-Define Labs\ReadOnlyLibrary\bin\Debug\net7.0\ReadOnlyLibrary.deps.json
+E:\C#-Define Labs\ReadOnlyLibrary\bin\Debug\net7.0\ReadOnlyLibrary.dll
+E:\C#-Define Labs\ReadOnlyLibrary\bin\Debug\net7.0\ReadOnlyLibrary.pdb
+E:\C#-Define Labs\ReadOnlyLibrary\obj\Debug\net7.0\ReadOnlyLibrary.csproj.AssemblyReference.cache
+E:\C#-Define Labs\ReadOnlyLibrary\obj\Debug\net7.0\ReadOnlyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-Define Labs\ReadOnlyLibrary\obj\Debug\net7.0\ReadOnlyLibrary.AssemblyInfoInputs.cache
+E:\C#-Define Labs\ReadOnlyLibrary\obj\Debug\net7.0\ReadOnlyLibrary.AssemblyInfo.cs
+E:\C#-Define Labs\ReadOnlyLibrary\obj\Debug\net7.0\ReadOnlyLibrary.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\ReadOnlyLibrary\obj\Debug\net7.0\ReadOnlyLibrary.dll
+E:\C#-Define Labs\ReadOnlyLibrary\obj\Debug\net7.0\refint\ReadOnlyLibrary.dll
+E:\C#-Define Labs\ReadOnlyLibrary\obj\Debug\net7.0\ReadOnlyLibrary.pdb
+E:\C#-Define Labs\ReadOnlyLibrary\obj\Debug\net7.0\ref\ReadOnlyLibrary.dll
