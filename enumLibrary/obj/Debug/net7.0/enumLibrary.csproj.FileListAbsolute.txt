@@ -1,0 +1,12 @@
+E:\C#-Define Labs\enumLibrary\obj\Debug\net7.0\enumLibrary.csproj.AssemblyReference.cache
+E:\C#-Define Labs\enumLibrary\obj\Debug\net7.0\enumLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-Define Labs\enumLibrary\obj\Debug\net7.0\enumLibrary.AssemblyInfoInputs.cache
+E:\C#-Define Labs\enumLibrary\obj\Debug\net7.0\enumLibrary.AssemblyInfo.cs
+E:\C#-Define Labs\enumLibrary\obj\Debug\net7.0\enumLibrary.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\enumLibrary\bin\Debug\net7.0\enumLibrary.deps.json
+E:\C#-Define Labs\enumLibrary\bin\Debug\net7.0\enumLibrary.dll
+E:\C#-Define Labs\enumLibrary\bin\Debug\net7.0\enumLibrary.pdb
+E:\C#-Define Labs\enumLibrary\obj\Debug\net7.0\enumLibrary.dll
+E:\C#-Define Labs\enumLibrary\obj\Debug\net7.0\refint\enumLibrary.dll
+E:\C#-Define Labs\enumLibrary\obj\Debug\net7.0\enumLibrary.pdb
+E:\C#-Define Labs\enumLibrary\obj\Debug\net7.0\ref\enumLibrary.dll
