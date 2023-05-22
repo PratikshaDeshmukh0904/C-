@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ObjectClassExample/1.0.0": {
+        "dependencies": {
+          "ObjectClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ObjectClassExample.dll": {}
+        }
+      },
+      "ObjectClassLibrary/1.0.0": {
+        "runtime": {
+          "ObjectClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObjectClassExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ObjectClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

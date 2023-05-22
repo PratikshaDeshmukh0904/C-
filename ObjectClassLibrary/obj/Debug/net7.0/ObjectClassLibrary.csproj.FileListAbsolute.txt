@@ -1,0 +1,12 @@
+E:\C#-Define Labs\ObjectClassLibrary\bin\Debug\net7.0\ObjectClassLibrary.deps.json
+E:\C#-Define Labs\ObjectClassLibrary\bin\Debug\net7.0\ObjectClassLibrary.dll
+E:\C#-Define Labs\ObjectClassLibrary\bin\Debug\net7.0\ObjectClassLibrary.pdb
+E:\C#-Define Labs\ObjectClassLibrary\obj\Debug\net7.0\ObjectClassLibrary.csproj.AssemblyReference.cache
+E:\C#-Define Labs\ObjectClassLibrary\obj\Debug\net7.0\ObjectClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-Define Labs\ObjectClassLibrary\obj\Debug\net7.0\ObjectClassLibrary.AssemblyInfoInputs.cache
+E:\C#-Define Labs\ObjectClassLibrary\obj\Debug\net7.0\ObjectClassLibrary.AssemblyInfo.cs
+E:\C#-Define Labs\ObjectClassLibrary\obj\Debug\net7.0\ObjectClassLibrary.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\ObjectClassLibrary\obj\Debug\net7.0\ObjectClassLibrary.dll
+E:\C#-Define Labs\ObjectClassLibrary\obj\Debug\net7.0\refint\ObjectClassLibrary.dll
+E:\C#-Define Labs\ObjectClassLibrary\obj\Debug\net7.0\ObjectClassLibrary.pdb
+E:\C#-Define Labs\ObjectClassLibrary\obj\Debug\net7.0\ref\ObjectClassLibrary.dll
