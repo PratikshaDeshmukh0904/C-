@@ -1,0 +1,15 @@
+E:\C#-Define Labs\BoxingUnboxing\bin\Debug\net7.0\BoxingUnboxing.exe
+E:\C#-Define Labs\BoxingUnboxing\bin\Debug\net7.0\BoxingUnboxing.deps.json
+E:\C#-Define Labs\BoxingUnboxing\bin\Debug\net7.0\BoxingUnboxing.runtimeconfig.json
+E:\C#-Define Labs\BoxingUnboxing\bin\Debug\net7.0\BoxingUnboxing.dll
+E:\C#-Define Labs\BoxingUnboxing\bin\Debug\net7.0\BoxingUnboxing.pdb
+E:\C#-Define Labs\BoxingUnboxing\obj\Debug\net7.0\BoxingUnboxing.csproj.AssemblyReference.cache
+E:\C#-Define Labs\BoxingUnboxing\obj\Debug\net7.0\BoxingUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-Define Labs\BoxingUnboxing\obj\Debug\net7.0\BoxingUnboxing.AssemblyInfoInputs.cache
+E:\C#-Define Labs\BoxingUnboxing\obj\Debug\net7.0\BoxingUnboxing.AssemblyInfo.cs
+E:\C#-Define Labs\BoxingUnboxing\obj\Debug\net7.0\BoxingUnboxing.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\BoxingUnboxing\obj\Debug\net7.0\BoxingUnboxing.dll
+E:\C#-Define Labs\BoxingUnboxing\obj\Debug\net7.0\refint\BoxingUnboxing.dll
+E:\C#-Define Labs\BoxingUnboxing\obj\Debug\net7.0\BoxingUnboxing.pdb
+E:\C#-Define Labs\BoxingUnboxing\obj\Debug\net7.0\BoxingUnboxing.genruntimeconfig.cache
+E:\C#-Define Labs\BoxingUnboxing\obj\Debug\net7.0\ref\BoxingUnboxing.dll
