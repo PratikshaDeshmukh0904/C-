@@ -1,0 +1,12 @@
+E:\C#-Define Labs\GenericMethodLibrary\bin\Debug\net7.0\GenericMethodLibrary.deps.json
+E:\C#-Define Labs\GenericMethodLibrary\bin\Debug\net7.0\GenericMethodLibrary.dll
+E:\C#-Define Labs\GenericMethodLibrary\bin\Debug\net7.0\GenericMethodLibrary.pdb
+E:\C#-Define Labs\GenericMethodLibrary\obj\Debug\net7.0\GenericMethodLibrary.csproj.AssemblyReference.cache
+E:\C#-Define Labs\GenericMethodLibrary\obj\Debug\net7.0\GenericMethodLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-Define Labs\GenericMethodLibrary\obj\Debug\net7.0\GenericMethodLibrary.AssemblyInfoInputs.cache
+E:\C#-Define Labs\GenericMethodLibrary\obj\Debug\net7.0\GenericMethodLibrary.AssemblyInfo.cs
+E:\C#-Define Labs\GenericMethodLibrary\obj\Debug\net7.0\GenericMethodLibrary.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\GenericMethodLibrary\obj\Debug\net7.0\GenericMethodLibrary.dll
+E:\C#-Define Labs\GenericMethodLibrary\obj\Debug\net7.0\refint\GenericMethodLibrary.dll
+E:\C#-Define Labs\GenericMethodLibrary\obj\Debug\net7.0\GenericMethodLibrary.pdb
+E:\C#-Define Labs\GenericMethodLibrary\obj\Debug\net7.0\ref\GenericMethodLibrary.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "GenericMethods/1.0.0": {
+        "dependencies": {
+          "GenericMethodLibrary": "1.0.0"
+        },
+        "runtime": {
+          "GenericMethods.dll": {}
+        }
+      },
+      "GenericMethodLibrary/1.0.0": {
+        "runtime": {
+          "GenericMethodLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GenericMethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GenericMethodLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
