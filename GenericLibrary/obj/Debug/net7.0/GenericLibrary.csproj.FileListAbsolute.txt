@@ -1,0 +1,12 @@
+E:\C#-Define Labs\GenericLibrary\bin\Debug\net7.0\GenericLibrary.deps.json
+E:\C#-Define Labs\GenericLibrary\bin\Debug\net7.0\GenericLibrary.dll
+E:\C#-Define Labs\GenericLibrary\bin\Debug\net7.0\GenericLibrary.pdb
+E:\C#-Define Labs\GenericLibrary\obj\Debug\net7.0\GenericLibrary.csproj.AssemblyReference.cache
+E:\C#-Define Labs\GenericLibrary\obj\Debug\net7.0\GenericLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-Define Labs\GenericLibrary\obj\Debug\net7.0\GenericLibrary.AssemblyInfoInputs.cache
+E:\C#-Define Labs\GenericLibrary\obj\Debug\net7.0\GenericLibrary.AssemblyInfo.cs
+E:\C#-Define Labs\GenericLibrary\obj\Debug\net7.0\GenericLibrary.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\GenericLibrary\obj\Debug\net7.0\GenericLibrary.dll
+E:\C#-Define Labs\GenericLibrary\obj\Debug\net7.0\refint\GenericLibrary.dll
+E:\C#-Define Labs\GenericLibrary\obj\Debug\net7.0\GenericLibrary.pdb
+E:\C#-Define Labs\GenericLibrary\obj\Debug\net7.0\ref\GenericLibrary.dll

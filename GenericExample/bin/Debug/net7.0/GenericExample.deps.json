@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "GenericExample/1.0.0": {
+        "dependencies": {
+          "GenericLibrary": "1.0.0"
+        },
+        "runtime": {
+          "GenericExample.dll": {}
+        }
+      },
+      "GenericLibrary/1.0.0": {
+        "runtime": {
+          "GenericLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GenericExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GenericLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
