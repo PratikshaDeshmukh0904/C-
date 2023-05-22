@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "StructureExample/1.0.0": {
+        "dependencies": {
+          "StructureLibrary2": "1.0.0"
+        },
+        "runtime": {
+          "StructureExample.dll": {}
+        }
+      },
+      "StructureLibrary2/1.0.0": {
+        "runtime": {
+          "StructureLibrary2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StructureExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StructureLibrary2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

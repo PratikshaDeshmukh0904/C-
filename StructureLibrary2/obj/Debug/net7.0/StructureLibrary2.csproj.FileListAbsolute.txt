@@ -1,0 +1,12 @@
+E:\C#-Define Labs\StructureLibrary2\bin\Debug\net7.0\StructureLibrary2.deps.json
+E:\C#-Define Labs\StructureLibrary2\bin\Debug\net7.0\StructureLibrary2.dll
+E:\C#-Define Labs\StructureLibrary2\bin\Debug\net7.0\StructureLibrary2.pdb
+E:\C#-Define Labs\StructureLibrary2\obj\Debug\net7.0\StructureLibrary2.csproj.AssemblyReference.cache
+E:\C#-Define Labs\StructureLibrary2\obj\Debug\net7.0\StructureLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-Define Labs\StructureLibrary2\obj\Debug\net7.0\StructureLibrary2.AssemblyInfoInputs.cache
+E:\C#-Define Labs\StructureLibrary2\obj\Debug\net7.0\StructureLibrary2.AssemblyInfo.cs
+E:\C#-Define Labs\StructureLibrary2\obj\Debug\net7.0\StructureLibrary2.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\StructureLibrary2\obj\Debug\net7.0\StructureLibrary2.dll
+E:\C#-Define Labs\StructureLibrary2\obj\Debug\net7.0\refint\StructureLibrary2.dll
+E:\C#-Define Labs\StructureLibrary2\obj\Debug\net7.0\StructureLibrary2.pdb
+E:\C#-Define Labs\StructureLibrary2\obj\Debug\net7.0\ref\StructureLibrary2.dll
