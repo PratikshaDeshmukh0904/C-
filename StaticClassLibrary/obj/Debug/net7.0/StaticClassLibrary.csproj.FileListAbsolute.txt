@@ -1,0 +1,12 @@
+E:\C#-Define Labs\StaticClassLibrary\bin\Debug\net7.0\StaticClassLibrary.deps.json
+E:\C#-Define Labs\StaticClassLibrary\bin\Debug\net7.0\StaticClassLibrary.dll
+E:\C#-Define Labs\StaticClassLibrary\bin\Debug\net7.0\StaticClassLibrary.pdb
+E:\C#-Define Labs\StaticClassLibrary\obj\Debug\net7.0\StaticClassLibrary.csproj.AssemblyReference.cache
+E:\C#-Define Labs\StaticClassLibrary\obj\Debug\net7.0\StaticClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-Define Labs\StaticClassLibrary\obj\Debug\net7.0\StaticClassLibrary.AssemblyInfoInputs.cache
+E:\C#-Define Labs\StaticClassLibrary\obj\Debug\net7.0\StaticClassLibrary.AssemblyInfo.cs
+E:\C#-Define Labs\StaticClassLibrary\obj\Debug\net7.0\StaticClassLibrary.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\StaticClassLibrary\obj\Debug\net7.0\StaticClassLibrary.dll
+E:\C#-Define Labs\StaticClassLibrary\obj\Debug\net7.0\refint\StaticClassLibrary.dll
+E:\C#-Define Labs\StaticClassLibrary\obj\Debug\net7.0\StaticClassLibrary.pdb
+E:\C#-Define Labs\StaticClassLibrary\obj\Debug\net7.0\ref\StaticClassLibrary.dll
