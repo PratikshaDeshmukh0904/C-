@@ -1,0 +1,15 @@
+E:\C#-Define Labs\NullPropogation\bin\Debug\net7.0\NullPropogation.exe
+E:\C#-Define Labs\NullPropogation\bin\Debug\net7.0\NullPropogation.deps.json
+E:\C#-Define Labs\NullPropogation\bin\Debug\net7.0\NullPropogation.runtimeconfig.json
+E:\C#-Define Labs\NullPropogation\bin\Debug\net7.0\NullPropogation.dll
+E:\C#-Define Labs\NullPropogation\bin\Debug\net7.0\NullPropogation.pdb
+E:\C#-Define Labs\NullPropogation\obj\Debug\net7.0\NullPropogation.csproj.AssemblyReference.cache
+E:\C#-Define Labs\NullPropogation\obj\Debug\net7.0\NullPropogation.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-Define Labs\NullPropogation\obj\Debug\net7.0\NullPropogation.AssemblyInfoInputs.cache
+E:\C#-Define Labs\NullPropogation\obj\Debug\net7.0\NullPropogation.AssemblyInfo.cs
+E:\C#-Define Labs\NullPropogation\obj\Debug\net7.0\NullPropogation.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\NullPropogation\obj\Debug\net7.0\NullPropogation.dll
+E:\C#-Define Labs\NullPropogation\obj\Debug\net7.0\refint\NullPropogation.dll
+E:\C#-Define Labs\NullPropogation\obj\Debug\net7.0\NullPropogation.pdb
+E:\C#-Define Labs\NullPropogation\obj\Debug\net7.0\NullPropogation.genruntimeconfig.cache
+E:\C#-Define Labs\NullPropogation\obj\Debug\net7.0\ref\NullPropogation.dll
