@@ -1,0 +1,12 @@
+E:\C#-Define Labs\IDisposalLibrary\bin\Debug\net7.0\IDisposalLibrary.deps.json
+E:\C#-Define Labs\IDisposalLibrary\bin\Debug\net7.0\IDisposalLibrary.dll
+E:\C#-Define Labs\IDisposalLibrary\bin\Debug\net7.0\IDisposalLibrary.pdb
+E:\C#-Define Labs\IDisposalLibrary\obj\Debug\net7.0\IDisposalLibrary.csproj.AssemblyReference.cache
+E:\C#-Define Labs\IDisposalLibrary\obj\Debug\net7.0\IDisposalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-Define Labs\IDisposalLibrary\obj\Debug\net7.0\IDisposalLibrary.AssemblyInfoInputs.cache
+E:\C#-Define Labs\IDisposalLibrary\obj\Debug\net7.0\IDisposalLibrary.AssemblyInfo.cs
+E:\C#-Define Labs\IDisposalLibrary\obj\Debug\net7.0\IDisposalLibrary.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\IDisposalLibrary\obj\Debug\net7.0\IDisposalLibrary.dll
+E:\C#-Define Labs\IDisposalLibrary\obj\Debug\net7.0\refint\IDisposalLibrary.dll
+E:\C#-Define Labs\IDisposalLibrary\obj\Debug\net7.0\IDisposalLibrary.pdb
+E:\C#-Define Labs\IDisposalLibrary\obj\Debug\net7.0\ref\IDisposalLibrary.dll

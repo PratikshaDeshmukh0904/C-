@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "IDisposal/1.0.0": {
+        "dependencies": {
+          "IDisposalLibrary": "1.0.0"
+        },
+        "runtime": {
+          "IDisposal.dll": {}
+        }
+      },
+      "IDisposalLibrary/1.0.0": {
+        "runtime": {
+          "IDisposalLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IDisposal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IDisposalLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
