@@ -1,0 +1,12 @@
+E:\C#-Define Labs\PatternMatchingLibrary\bin\Debug\net7.0\PatternMatchingLibrary.deps.json
+E:\C#-Define Labs\PatternMatchingLibrary\bin\Debug\net7.0\PatternMatchingLibrary.dll
+E:\C#-Define Labs\PatternMatchingLibrary\bin\Debug\net7.0\PatternMatchingLibrary.pdb
+E:\C#-Define Labs\PatternMatchingLibrary\obj\Debug\net7.0\PatternMatchingLibrary.csproj.AssemblyReference.cache
+E:\C#-Define Labs\PatternMatchingLibrary\obj\Debug\net7.0\PatternMatchingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-Define Labs\PatternMatchingLibrary\obj\Debug\net7.0\PatternMatchingLibrary.AssemblyInfoInputs.cache
+E:\C#-Define Labs\PatternMatchingLibrary\obj\Debug\net7.0\PatternMatchingLibrary.AssemblyInfo.cs
+E:\C#-Define Labs\PatternMatchingLibrary\obj\Debug\net7.0\PatternMatchingLibrary.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\PatternMatchingLibrary\obj\Debug\net7.0\PatternMatchingLibrary.dll
+E:\C#-Define Labs\PatternMatchingLibrary\obj\Debug\net7.0\refint\PatternMatchingLibrary.dll
+E:\C#-Define Labs\PatternMatchingLibrary\obj\Debug\net7.0\PatternMatchingLibrary.pdb
+E:\C#-Define Labs\PatternMatchingLibrary\obj\Debug\net7.0\ref\PatternMatchingLibrary.dll
