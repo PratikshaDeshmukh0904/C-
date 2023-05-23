@@ -1,0 +1,12 @@
+E:\C#-Define Labs\InnerClassLibrary\bin\Debug\net7.0\InnerClassLibrary.deps.json
+E:\C#-Define Labs\InnerClassLibrary\bin\Debug\net7.0\InnerClassLibrary.dll
+E:\C#-Define Labs\InnerClassLibrary\bin\Debug\net7.0\InnerClassLibrary.pdb
+E:\C#-Define Labs\InnerClassLibrary\obj\Debug\net7.0\InnerClassLibrary.csproj.AssemblyReference.cache
+E:\C#-Define Labs\InnerClassLibrary\obj\Debug\net7.0\InnerClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-Define Labs\InnerClassLibrary\obj\Debug\net7.0\InnerClassLibrary.AssemblyInfoInputs.cache
+E:\C#-Define Labs\InnerClassLibrary\obj\Debug\net7.0\InnerClassLibrary.AssemblyInfo.cs
+E:\C#-Define Labs\InnerClassLibrary\obj\Debug\net7.0\InnerClassLibrary.csproj.CoreCompileInputs.cache
+E:\C#-Define Labs\InnerClassLibrary\obj\Debug\net7.0\InnerClassLibrary.dll
+E:\C#-Define Labs\InnerClassLibrary\obj\Debug\net7.0\refint\InnerClassLibrary.dll
+E:\C#-Define Labs\InnerClassLibrary\obj\Debug\net7.0\InnerClassLibrary.pdb
+E:\C#-Define Labs\InnerClassLibrary\obj\Debug\net7.0\ref\InnerClassLibrary.dll
